@@ -4,7 +4,7 @@ import Home from './pages/Home'
 const App = () => {
   return (
     <>
-      <div className="min-h-screen flex flex-col justify-between bg-gray-50">
+      <div className="min-h-screen mx-2 flex flex-col justify-between bg-gray-50">
         <main className="flex-grow">
           <Home />
         </main>
