@@ -73,7 +73,7 @@ const Home = () => {
   };
 
   return (
-    <div className='max-w-md mx-auto mt-20 p-6 rounded-lg shadow-sm bg-white space-y-6 animate-fadein'>
+    <div className='max-w-md mx-auto mt-20 mx-2 p-6 rounded-lg shadow-sm bg-white space-y-6 animate-fadein'>
       <h1 className='text-4xl font-bebas text-gray-800'>MoodMail Generator</h1>
 
       {!generated ? (
