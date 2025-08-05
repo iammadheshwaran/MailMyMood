@@ -1,4 +1,4 @@
-# Logs
+git commit -m "Fix: add Vite as dev dependency"# Logs
 logs
 *.log
 npm-debug.log*
