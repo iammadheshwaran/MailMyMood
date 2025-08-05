@@ -39,12 +39,3 @@ This project is perfect for beginners who want to understand React state, input 
 | ShadCN UI       | Pre-built, accessible UI components       |
 | Vite            | Fast dev server & build tool              |
 
----
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/iammadheshwaran/MailMyMood.git
-cd MailMyMood
