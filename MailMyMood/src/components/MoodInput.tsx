@@ -1,4 +1,3 @@
-import React from 'react';
 import { Input } from './ui/input';
 import { Button } from './ui/button';
 
@@ -11,7 +10,7 @@ type Props = {
 
 const MoodInput = ({ mood, setMood, onGenerate, disabled }: Props) => {
   return (
-    <div className="flex flex-col space-y-4 md:space-y-6 md:flex-row md:space-x-4">
+    <div className="flex flex-col space-y-4 md:space-y-6 md:flex-row font-poppins md:space-x-4">
       <Input
         type="text"
         className="w-full md:flex-1 p-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-400"

@@ -11,7 +11,7 @@ type Props = {
 const MoodOutput = ({subject, footer, onReset}:Props) => {
   return (
     <>
-    <div className="space-y-4">
+    <div className="space-y-4 font-poppins">
         <div>
             <label className="block font-medium">Subject</label>
             <Input value={subject} readOnly/>
